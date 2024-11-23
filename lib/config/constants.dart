@@ -5,6 +5,14 @@ abstract final class AppStrings {
   static const String credit = 'BITONOMOUS';
 }
 
+abstract final class AppKeys {
+  static const String wordKey = 'wordKey';
+  static const String timeKey = 'timeKey';
+  static const String attemptsKey = 'attemptsKey';
+  static const String dailyFileKey = 'assets/daily_words.txt';
+  static const String englishFileKey = 'assets/english_words.txt';
+}
+
 abstract final class AppColors {
   static const Color background = Color(0xFF1E1E1E);
   static const Color text = Color(0xFFFFFFFF);
