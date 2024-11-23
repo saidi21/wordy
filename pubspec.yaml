@@ -17,3 +17,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Istok
+      fonts:
+        - asset:  assets/fonts/IstokWeb-Bold.ttf
+
+  assets:
+    - assets/english_words.txt
+    - assets/daily_words.txt
