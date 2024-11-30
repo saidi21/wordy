@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wordy/presentation/widgets/export_widgets.dart';
+import 'package:wordy/presentation/home/widgets/export_widgets.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
